@@ -43,4 +43,5 @@ Este laboratório tem como objetivo praticar e aprofundar o uso das ferramentas 
 - Python 3.8
 - Azure AI Text Analytics SDK
 - python-dotenv (Opcional)
+- [VSCode](https://code.visualstudio.com/Download)
 - JSON
