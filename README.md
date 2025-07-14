@@ -22,7 +22,7 @@
 </audio>
 
 
-# Bootcamp Randstad - Análise de Dados – Criando Prompts Inteligentes da [DIO](https://dio.me)
+# Bootcamp Randstad - Análise de Dados da [DIO](https://dio.me)
 
 ## Módulo "Seus Primeiros Passos com IA".
 
