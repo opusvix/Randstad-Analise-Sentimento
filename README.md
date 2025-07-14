@@ -29,3 +29,18 @@
 ### Desafio de Projeto "Análise de Sentimentos com Language Studio no Azure AI".
 
 Este laboratório tem como objetivo praticar e aprofundar o uso das ferramentas Azure Speech Studio e Language Studio, focando na análise de fala e linguagem natural.
+
+## Funcionalidades
+
+- Autenticação com Azure Cognitive Services utilizando chave e endpoint via arquivo `.env`.
+- Detecção automática de idioma.
+- Análise de sentimentos detalhada (documento, sentenças e opiniões).
+- Geração de relatório da análise estruturado em JSON.
+- Impressão dos resultados no console.
+
+## Tecnologias Utilizadas
+
+- Python 3.8
+- Azure AI Text Analytics SDK
+- python-dotenv (Opcional)
+- JSON
