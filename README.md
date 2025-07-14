@@ -22,6 +22,10 @@
 </audio>
 
 
+# Bootcamp Randstad - Análise de Dados – Criando Prompts Inteligentes da [DIO](https://dio.me)
 
-# Análise de Sentimentos com Language Studio no Azure AI
+## Módulo "Seus Primeiros Passos com IA".
+
+### Desafio de Projeto "Análise de Sentimentos com Language Studio no Azure AI".
+
 Este laboratório tem como objetivo praticar e aprofundar o uso das ferramentas Azure Speech Studio e Language Studio, focando na análise de fala e linguagem natural.
