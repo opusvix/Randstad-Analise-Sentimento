@@ -56,8 +56,6 @@ Sinta-se à vontade para contribuir com este projeto. Envie um `pull request` co
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-Este modelo de readme.md apresenta os prompts e seus resultados em formato de tabela, facilitando a visualização e compreensão dos insights gerados a partir dos dados de vendas.
-
 ## 👨‍💻 Autor
 
 <p>
