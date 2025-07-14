@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./Images/LogoGot.png"
+    src="./Images/LogoGit.png"
     width="300"
 />
 </p>
