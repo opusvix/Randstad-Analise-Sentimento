@@ -78,8 +78,6 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 </p>
 <br/><br/>
 <p>
-
 ---
-
 :hammer_and_wrench: com :sparkling_heart: por [Maurício Barros](https://github.com/opusvix)
 
