@@ -176,6 +176,11 @@ Exemplo de saida em formato `JSON`:
 |----------------------|------------------------|
 |Foi observado que não há interferência das frases antecessoras nas sucessoras.| A pontuação correta nas frases tem um impacto significativo para o resultado da análise.|
 
+<!-- links -->
+[assinatura_azure]: https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account?icid=ai-services
+[criar_recurso_linguagem]: https://portal.azure.com/#create/Microsoft.CognitiveServicesTextAnalytics
+[mit_link]: https://choosealicense.com/licenses/mit/
+
 
 ## Contribuição
 
