@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/download.jpeg"
+    src="./Images/LogoGot.png"
     width="300"
 />
 </p>
